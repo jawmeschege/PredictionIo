@@ -1,0 +1,4 @@
+[INFO] [Management$] Creating Event Server at 0.0.0.0:7070
+[WARN] [HttpListener] Bind to /0.0.0.0:7070 failed
+[ERROR] [EventServerActor] Command failed.
+[ERROR] [TcpListener] Bind failed for TCP channel on endpoint [/0.0.0.0:7070]
